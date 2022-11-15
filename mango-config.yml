@@ -1,0 +1,10 @@
+---
+scan_interval_minutes: 20
+thumbnail_generation_interval_hours: 24
+library_path: /data/library
+db_path: /data/mango.db
+queue_db_path: /data/queue.db
+upload_path: /data/uploads
+plugin_path: /data/plugins
+library_cache_path: /data/library.yml.gz
+cache_size_mbs: 128
